@@ -1,0 +1,8 @@
+CCONST
+======
+
+CConst is a simple one-file program that reads any binary file,
+and saves it in a C source file as an array of unsigned chars.
+
+Published under the MIT license.
+Copyright (C) 2017 Albert Tomanek <electron826@gmail.com>
